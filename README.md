@@ -28,6 +28,7 @@ I'm looking to collaborate on:
 - **GitHub**: [hussainezzi](https://github.com/hussainezzi)
 - **Hugging Face**: [hussainezzi03](https://huggingface.co/hussainezzi03)
 - **Email**: [hussainezzi03@gmail.com]
+- **Linkdn**:[www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=hussain-ezzi-67900226a]
 
 ⚡ **Fun Fact:** I'm fascinated by **bridging AI & quantum computing** to enhance NLP models! 🚀
 
